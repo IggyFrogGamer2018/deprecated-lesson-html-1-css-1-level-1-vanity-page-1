@@ -1,0 +1,17 @@
+{
+ "name": "deprecated-lesson-html-1-css-1-level-1-vanity-page-1",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "7192f02b-1551-268d-867a-288b2cc979db",
+   "pageId": "7192f02b-1551-268d-867a-288b2cc979db",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "f5c5e43b-420d-cace-3cec-b963032e0101",
+   "pageId": "f5c5e43b-420d-cace-3cec-b963032e0101",
+   "type": "page"
+  }
+ ]
+}
